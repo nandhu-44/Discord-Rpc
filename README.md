@@ -1,7 +1,7 @@
 # How to start?
 
 - Change clientId to your clientId
-- Upload Image assests and remeber the **name** of the assets
+- Upload Image assets and remember the **name** of the assets
 - Replace large and small ImageKeys with those asset names 
 
 # Initialize the code
